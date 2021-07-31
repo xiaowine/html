@@ -1,0 +1,9 @@
+@@||sf1-ttcdn-tos.pstatp.com^$important
+@@||widget.qweather.com^$important
+||api.tabnine.com^$important
+||lbs.map.qq.com^$important
+||bdbus-turbonet.baidu.com^$important
+||c.93hdw9.com^$important
+||a2put.chinaz.com^$important
+185.199.109.153 luckybilly.github.io
+52.74.223.119 github.com
