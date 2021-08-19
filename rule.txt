@@ -1,10 +1,9 @@
-@@||sf1-ttcdn-tos.pstatp.com^$important
-@@||widget.qweather.com^$important
-||api.tabnine.com^$important
-||lbs.map.qq.com^$important
-||bdbus-turbonet.baidu.com^$important
-||c.93hdw9.com^$important
-||a2put.chinaz.com^$important
-||heckip.synology.com
-185.199.109.153 luckybilly.github.io
+@@||sf1-ttcdn-tos.pstatp.com^
+@@||widget.qweather.com^
+||api.tabnine.com^
+||lbs.map.qq.com^
+||bdbus-turbonet.baidu.com^
+||c.93hdw9.com^
+||a2put.chinaz.com^
+||checkip.synology.com^
 52.74.223.119 github.com
