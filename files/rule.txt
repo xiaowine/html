@@ -3,13 +3,15 @@
 
 
 ||api.tabnine.com^
-||lbs.map.qq.com^
 ||bdbus-turbonet.baidu.com^
 ||c.93hdw9.com^
 ||a2put.chinaz.com^
 ||checkip.synology.com^
 ||*.url.cn^
 ||v4.ip.zxinc.org^
-
+||*.dyndns.org^
+||91mh.co^
+||*.tqwfb.com^
+||*.ytbftd.com^
 
 52.74.223.119 github.com
