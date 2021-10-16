@@ -14,4 +14,4 @@
 ||*.tqwfb.com^
 ||*.ytbftd.com^
 
-52.74.223.119 github.com
+13.229.188.59 github.com
