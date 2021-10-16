@@ -7,11 +7,12 @@
 ||c.93hdw9.com^
 ||a2put.chinaz.com^
 ||checkip.synology.com^
-||*.url.cn^
+||url.cn^
 ||v4.ip.zxinc.org^
-||*.dyndns.org^
+||dyndns.org^
 ||91mh.co^
-||*.tqwfb.com^
-||*.ytbftd.com^
+||tqwfb.com^
+||ytbftd.com^
+||verysync.cn^
 
 13.229.188.59 github.com
