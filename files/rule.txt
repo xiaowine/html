@@ -15,4 +15,4 @@
 ||ytbftd.com^
 ||verysync.cn^
 
-13.229.188.59 github.com
+52.74.223.119 github.com
