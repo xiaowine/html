@@ -16,5 +16,5 @@
 ||verysync.cn^
 
 
-52.192.72.89 github.com
-#52.74.223.119 github.com
+#52.192.72.89 github.com
+52.74.223.119 github.com
