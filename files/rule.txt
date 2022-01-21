@@ -8,7 +8,6 @@
 ||a2put.chinaz.com^
 ||checkip.synology.com^
 ||url.cn^
-||v4.ip.zxinc.org^
 ||dyndns.org^
 ||91mh.co^
 ||tqwfb.com^
