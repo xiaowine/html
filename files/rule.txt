@@ -2,7 +2,7 @@
 @@||widget.qweather.com^
 
 
-||api.tabnine.com^
+#||api.tabnine.com^
 ||bdbus-turbonet.baidu.com^
 ||c.93hdw9.com^
 ||a2put.chinaz.com^
@@ -14,6 +14,3 @@
 ||ytbftd.com^
 ||verysync.cn^
 
-
-52.192.72.89 github.com
-#52.74.223.119 github.com
