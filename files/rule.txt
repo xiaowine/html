@@ -14,3 +14,4 @@
 ||ytbftd.com^
 ||verysync.cn^
 
+13.225.97.51 api.themoviedb.org
